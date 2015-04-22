@@ -1,2 +1,3 @@
 # pei_elections
-Elections Data for Prince Edward Island
+
+Open data related to elections in the Canadian province of Prince Edward Island.
